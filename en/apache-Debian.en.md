@@ -106,7 +106,7 @@ tail -f /var/log/apache2/kvmdash_access.log
 ## Structure
 
 - Frontend (vite): `/var/www/kvmdash/frontend/dist`
-- Backend (Symfony): `/var/www/kvmdash/www/html/backend/public`
+- Backend (Symfony): `/var/www/kvmdash/backend/public`
 - API Endpoint: `http://kvmdash/api`
 
 ## Troubleshooting
