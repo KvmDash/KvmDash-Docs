@@ -131,4 +131,4 @@ Is a package that provides tools for managing network bridges.
 By installing these packages, you get a complete virtualization environment on your Debian 12 system that allows you to create, manage, and run VMs.
 
 Next, we'll cover the basics of Libvirt:
-[Introduction to libvirt](https://github.com/KvmDash/kvmdash/blob/main/docs/libvirt-Debian.md)
+[Introduction to libvirt](https://github.com/KvmDash/KvmDash-Docs/blob/main/en/libvirt-Debian.en.md)
